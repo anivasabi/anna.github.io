@@ -79,6 +79,14 @@ div , footer {
 	margin: 60px auto;
 }
 
+.my-photo {
+	align: right;
+	width: 300px;
+	border-radius: 50%;
+	border-style: outset;
+	border-width: 2px;
+}
+
 .hero {
 	margin: 50px auto; 
 	position: relative;
@@ -88,6 +96,7 @@ h1.name {
 	font-size: 70px;
 	font-weight: 300;
 	display: inline-block;
+	padding-right: 8px;
 }
 
 .title {
