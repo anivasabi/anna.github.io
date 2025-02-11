@@ -79,13 +79,6 @@ div , footer {
 	margin: 60px auto;
 }
 
-.my-photo {
-	align: right;
-	width: 300px;
-	border-radius: 50%;
-	border-style: outset;
-	border-width: 2px;
-}
 
 .hero {
 	margin: 50px auto; 
@@ -98,6 +91,15 @@ h1.name {
 	display: inline-block;
 	padding-right: 8px;
 }
+
+.my-photo {
+	align: right;
+	width: 300px;
+	border-radius: 50%;
+	border-style: outset;
+	border-width: 2px;
+}
+
 
 .title {
 	vertical-align: top;
