@@ -188,7 +188,9 @@ h1.name {
 	vertical-align: top;
 	border-radius: 10px;
 	text-align: center;
-	padding-top: 50px
+	padding-top: 50px;
+	transform: scale (1);
+	transition: 0.5s;
 }
 
 .card-active , .card:hover{
