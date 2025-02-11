@@ -89,12 +89,13 @@ h1.name {
 	font-size: 70px;
 	font-weight: 300;
 	display: inline-block;
-	padding-right: 8px;
+	padding-right: 18px;
 }
 
 .my-photo {
 	align: right;
 	width: 300px;
+	heigth: 300px;
 	border-radius: 50%;
 	border-style: outset;
 	border-width: 2px;
